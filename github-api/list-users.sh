@@ -1,4 +1,10 @@
 #!/bin/bash
+################################
+#Author: Santhosha Kumara T
+#Date:
+#Version:
+#Purpose:
+###################################
 
 # GitHub API URL
 API_URL="https://api.github.com"
